@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Outputs temporales
+outputs/temp/
+
+# Sistema
+.DS_Store
+Thumbs.db
