@@ -416,6 +416,6 @@ st.markdown("---")
 st.subheader("Diagrama simplificado proceso EDAR")
 
 st.image(
-    r"C:\TFM_EDAR\outputs\figures\edar_diagram.png",
+    "outputs/figures/edar_diagram.png",
     width='stretch'
 )

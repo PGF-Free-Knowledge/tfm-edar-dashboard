@@ -6,7 +6,7 @@ from scripts.utils import extract_block
 # RUTA GLOBAL
 # -----------------------------------
 
-FILE_PATH = r"C:\TFM_EDAR\data\raw\TFM_EDAR.xlsx"
+FILE_PATH = "data/raw/TFM_EDAR.xlsx"
 
 # -----------------------------------
 # CERCCEDA
