@@ -38,3 +38,5 @@ app/
 scripts/
 data/
 outputs/
+
+Última actualización desde PC Casa. Placilla de Peñuelas
