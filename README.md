@@ -1,4 +1,4 @@
-# TFM - Comparación EDAR
+# TFM – Comparative Analysis Dashboard for Wastewater Treatment Plants (EDAR)
 
 Proyecto de análisis comparativo entre plantas EDAR mediante Python, Streamlit y visualización interactiva.
 
